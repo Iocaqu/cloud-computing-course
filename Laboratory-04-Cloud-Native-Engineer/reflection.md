@@ -8,4 +8,3 @@ Running `docker rm` deletes the container's writable layer entirely, which means
 
 For DevOps, containers close the gap between "works on my machine" and "works in production." Developers can package an app with everything it needs to run, and that exact package moves unchanged through testing and into production, so operations teams spend less time chasing environment mismatches and more time on scaling and reliability.
 
-*(Wrap up with how this lab specifically moved your own GitHub portfolio forward.)*
