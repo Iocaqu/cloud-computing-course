@@ -33,4 +33,4 @@ docker rm nginx-server
 - Where containers win over VMs on speed and resource footprint.
 
 ## Challenges I Ran Into
-- *(Add your own — port conflicts, typos in flags, KillerCoda session expiring mid-task, etc., and how you got past them.)*
+- Everything went smoothly for this activity — no blockers worth noting. Docker came pre-installed in the KillerCoda Playground, so the version check, image pull, container run, and connectivity test with curl all completed without errors on the first attempt. The lifecycle commands also worked exactly as expected: each one produced clear, confirming output before I moved to the next.
