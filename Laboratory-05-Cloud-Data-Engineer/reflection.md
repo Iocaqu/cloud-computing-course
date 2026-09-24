@@ -1,6 +1,5 @@
 # Mission Reflection
 
-*Give this a read-through and tweak anything that doesn't sound like you before submitting. Aim for 250–350 words total.*
 
 **1. Why is object storage better suited for storing millions of photos compared to a traditional block storage hard drive?**
 
